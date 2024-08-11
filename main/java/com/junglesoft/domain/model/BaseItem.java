@@ -1,4 +1,4 @@
-package com.junglesoft.model;
+package com.junglesoft.domain.model;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
